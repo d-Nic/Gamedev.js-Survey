@@ -1,6 +1,6 @@
-# Gamedev.js Survey: State of Web Game Development in 2023
+# Gamedev.js Survey: State of Web Game Development in 2024
 
-Thank you for taking part in the Survey and answering questions! It should take no more than 15-20 minutes, and will greatly help us evaluate the current state of Web Game Development. It's open between December 8th and 22nd, and we plan on sharing the results publicly at the end of the first week of 2024. Make sure to visit [gamedevjs.com/survey/2023](https://gamedevjs.com/survey/2023/) for more details.
+Thank you for taking part in the Survey and answering questions! It should take no more than 20 minutes, and will greatly help us evaluate the current state of Web Game Development. It's open between OPENING_DATE and CLOSING_DATE, and we plan on sharing the results publicly PUBLISHING_DATE. Make sure to visit [gamedevjs.com/survey/2024](https://gamedevjs.com/survey/2024/) for more details.
 
 This survey is anonymous, and by (optionally) leaving your email address at the very end of it, you agree to take part in the prize giveaway ($500 cash total to 10 lucky participants, $50 each), being emailed with the results, and notified when we repeat the survey next year.
 
@@ -67,6 +67,8 @@ _[radio]_
 - 11 - 20
 - 21 - 50
 - 50+
+
+---
 
 ## 8. What operating system are you mainly using to develop your games?
 _[radio]_
@@ -250,6 +252,8 @@ _[checkboxes]_
 - I don't
 - Other [text input]
 
+---
+
 ## 19. Where are you getting your graphic design assets from?
 _[checkboxes]_
 
@@ -370,6 +374,8 @@ _[checkboxes]_
 - None
 - _Other [text input]_
 
+---
+
 ## 28. What is your source of income?
 _[checkboxes]_
 
@@ -415,7 +421,7 @@ _[dropdown]_
 ## 33. Are there any specific issues or struggles you're having when developing games?
 _[text input]_
 
-## 34. In your opinion, what are the biggest challenges facing web game development community in 2023?
+## 34. In your opinion, what are the biggest challenges facing web game development community in 2024?
 _[text input]_
 
 ## 35. Anything else you'd like to add?
@@ -424,3 +430,4 @@ _[text input]_
 ---
 
 Leave your email address if you'd like to have a chance of winning prizes ($500 cash total to 10 lucky participants, $50 each), receive the results to your inbox as soon as they are published, and get a notification when we repeat the survey next year.
+_[text input]_

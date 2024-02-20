@@ -1,6 +1,4 @@
-# Take part in Gamedev.js Survey 2023!
-**Help us** by [filling the form](https://gamedevjs.com/survey-2023-form) - you have time until **December 22nd**, win $50 while doing so.
+# Report on the current state of Web Game Development in 2023 is published!
+The results of the [Gamedev.js Survey 2023](https://gamedevjs.com/survey/2023/) are [published](https://gamedevjs.com/survey/report-on-the-current-state-of-web-game-development-in-2023-is-now-published/) already. Feel free to use the data from the [report](https://gamedevjs.com/dl/gamedevjs-survey-2023-report.pdf) however you see fit, just remember to credit the source.
 
-Check out [this blog post](https://gamedevjs.com/survey/help-improve-gamedev-js-survey-2023/) for more details.
-
-The full report will be published at the beginning of 2024.
+The next, [2024 edition](https://gamedevjs.com/survey/2024/) will be held in the next few months. The questions are already here (`questions-2024.md`), so go ahead and make a [Pull Request](https://github.com/GamedevJS/Gamedev.js-Survey/pulls) if you think anything needs an update.
