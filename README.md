@@ -1,4 +1,7 @@
-# Report on the current state of Web Game Development in 2023 is published!
-The results of the [Gamedev.js Survey 2023](https://gamedevjs.com/survey/2023/) are [published](https://gamedevjs.com/survey/report-on-the-current-state-of-web-game-development-in-2023-is-now-published/) already. Feel free to use the data from the [report](https://gamedevjs.com/dl/gamedevjs-survey-2023-report.pdf) however you see fit, just remember to credit the source.
+# Help improve Gamedev.js Survey 2024!
 
-The next, [2024 edition](https://gamedevjs.com/survey/2024/) will be held in the next few months. The questions are already here (`questions-2024.md`), so go ahead and make a [Pull Request](https://github.com/GamedevJS/Gamedev.js-Survey/pulls) if you think anything needs an update.
+**Help us** improve the upcoming [Gamedev.js Survey 2024](https://gamedevjs.com/survey/2024/) - **review and update** any answers from the `questions-2024.md` file to win $50 out of the $500 pool by sending [Pull Requests](https://github.com/GamedevJS/Gamedev.js-Survey/pulls) with proposed changes. You have two weeks between **November 15th and 29th** to do it.
+
+Check out [this blog post](https://gamedevjs.com/survey/help-improve-gamedev-js-survey-2024/) for more details.
+
+The Survey itself will run between December 1st and 22nd, with the results being announced in January 2025.
