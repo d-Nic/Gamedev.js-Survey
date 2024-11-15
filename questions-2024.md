@@ -184,6 +184,7 @@ _[checkboxes]_
 - Kontra
 - LittleJS
 - Goodluck
+- Raylib
 - Solar2D
 - Kiwi.js
 - CryEngine
