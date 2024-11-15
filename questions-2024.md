@@ -57,7 +57,18 @@ _[radio]_
 - 11 - 15
 - 15+
 
-## 7. How many games have you released so far?
+## 7. How many games have you released so far? (including any comercial and/or free to play games but excluding game jam projects)
+_[radio]_
+
+- 0
+- 1
+- 2 - 5
+- 6 - 10
+- 11 - 20
+- 21 - 50
+- 50+
+
+- ## 7b. How many game jam projects have you submitted so far? (excluding games that were later released and included in the previous answer)
 _[radio]_
 
 - 0
@@ -124,6 +135,7 @@ _[checkboxes]_
 - TypeScript
 - NPM
 - My own
+- Provided by/inside game engine
 - None
 - Not applicable
 - _Other [text input]_
@@ -137,6 +149,7 @@ _[checkboxes]_
 - ClojureScript
 - C#
 - Lua
+- Game engine specific (e.g. GDScript, GML...)
 - Not a coder
 - _Other [text input]_
 
@@ -341,6 +354,7 @@ _[checkboxes]_
 - Via my community/my fanbase
 - Friends and family
 - I publish my test versions publicly
+- Game development affinity meeting groups (i.e. meetups)
 - Discord/Twitter
 - Recruiting agencies/tools
 - I don’t find an audience to test my games
@@ -371,6 +385,7 @@ _[checkboxes]_
 - GitHub
 - Discord
 - Reddit
+- Dedicated game/studio website/blog
 - None
 - _Other [text input]_
 
@@ -379,7 +394,8 @@ _[checkboxes]_
 ## 28. What is your source of income?
 _[checkboxes]_
 
-- Salary
+- Salary (related to game development)
+- Salary (unrelated to game development)
 - Licensing fees (fixed / subscription / revenue share)
 - Advertisements
 - In-App Purchases
