@@ -376,7 +376,7 @@ _[checkboxes]_
 
 ---
 
-## 28. What is your source of income?
+## 28. What are your sources of income?
 _[checkboxes]_
 
 - Salary
@@ -390,6 +390,25 @@ _[checkboxes]_
 - Crypto / NFTs
 - None
 - _Other [text input]_
+
+## 28.1 What is your primary source of income?
+_[radio]_
+
+- Salary
+- Licensing fees (fixed / subscription / revenue share)
+- Advertisements
+- In-App Purchases
+- Direct sales (paid games)
+- Client work
+- Donations
+- Web Monetization
+- Crypto / NFTs
+- None
+- _Other
+
+## 28.2 What percentage of your gamedev income does your primary source make up?
+
+[text_input]_ (0-100%)
 
 ## 29. How much money are you earning from game development (yearly estimate)?
 _[radio]_
