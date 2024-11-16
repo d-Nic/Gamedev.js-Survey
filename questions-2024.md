@@ -193,7 +193,7 @@ _[checkboxes]_
 - Not applicable
 - _Other [text input]_
 
-## 15. Which UI library are you using the most?
+## 15. Which UI library or framework are you using the most?
 _[radio]_
 
 - React
