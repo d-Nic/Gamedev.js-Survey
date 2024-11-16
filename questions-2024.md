@@ -285,6 +285,8 @@ _[checkboxes]_
 - Figma
 - Sketch
 - Gravit Designer
+- Affinity Photo
+- Affinity Designer
 - _Other [text input]_
 
 ## 21. Where are you getting your sound and music assets from?
