@@ -196,6 +196,7 @@ _[checkboxes]_
 - Unreal
 - W.js
 - Kontra
+- Kaplay
 - LittleJS
 - Goodluck
 - Raylib
@@ -301,6 +302,7 @@ _[checkboxes]_
 - MagicaVoxel
 - Pixelorama
 - Figma
+- Penpot
 - Sketch
 - Gravit Designer
 - _Other [text input]_
@@ -361,6 +363,7 @@ _[checkboxes]_
 - I publish my test versions publicly
 - Game development affinity meeting groups (i.e. meetups)
 - Discord/Twitter
+- Forums
 - Recruiting agencies/tools
 - I don’t find an audience to test my games
 - _Other [text input]_
