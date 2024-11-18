@@ -135,6 +135,7 @@ _[checkboxes]_
 - TypeScript
 - CoffeeScript
 - ClojureScript
+- Rust (via WebAssembly)
 - C#
 - Lua
 - Not a coder
@@ -249,6 +250,8 @@ _[checkboxes]_
 - Social media
 - Conferences and events
 - Online courses and tutorials
+- Newsletters and mailing lists
+- Podcasts
 - I don't
 - Other [text input]
 
@@ -364,6 +367,7 @@ _[checkboxes]_
 _[checkboxes]_
 
 - X (formerly Twitter)
+- BlueSky
 - Mastodon
 - Facebook
 - Instagram
