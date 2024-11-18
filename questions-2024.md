@@ -254,6 +254,7 @@ _[checkboxes]_
 - Battle Royale
 - Survival
 - Party
+- Roguelike
 - _Other [text input]_
 
 ## 18. How do you stay updated on the latest trends and advancements in web game development?
